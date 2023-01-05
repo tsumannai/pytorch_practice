@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+**/pycache/*/
+**/data/*/
+**/pytorch_tutorials/*/
+*.csv
+*.png
+/.idea/
+/pytorch_examples/Image Classification/Dog Breeds/data/
