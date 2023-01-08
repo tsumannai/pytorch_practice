@@ -4,6 +4,8 @@
 **/pytorch_tutorials/*/
 *.csv
 *.png
+*.jpg
 /.idea/
 /pytorch_examples/Image Classification/Dog Breeds/data/
-
+*.h5
+!spec/*.png
