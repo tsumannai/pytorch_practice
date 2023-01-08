@@ -6,3 +6,4 @@
 *.png
 /.idea/
 /pytorch_examples/Image Classification/Dog Breeds/data/
+/pytorch_examples/Image Classification/Birds/
